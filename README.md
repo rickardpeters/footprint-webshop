@@ -1,4 +1,4 @@
-# Footpring webshop
+# Footprint webshop
 
 For my bachelor's project at the end of my 3rd year of university, me and a group of other students created an e-commerce website to investigate how the choice of color on a website affects the perceived trustworthiness.
 
