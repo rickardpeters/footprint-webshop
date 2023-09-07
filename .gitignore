@@ -1,0 +1,15 @@
+#Python cache
+__pycache__
+
+#Environment
+venv/
+
+# Database
+server/database.db
+
+# DS Store
+.DS_Store
+server/.DS_Store
+
+#lokala bilder
+ 
